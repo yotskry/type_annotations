@@ -1,0 +1,1 @@
+Use `make typing` to start type checks
